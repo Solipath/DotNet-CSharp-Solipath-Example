@@ -1,7 +1,12 @@
 # Solipath .Net C# example project
 This is a quick showcase of using Solipath for a C# project
 
-To run tests
+To run tests on powershell
+```powershell
+./solipath.bat dotnet test
+```
+
+To run tests on bash
 ```bash
 ./solipath dotnet test
 ```
