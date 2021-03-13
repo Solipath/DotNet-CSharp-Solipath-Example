@@ -1,12 +1,9 @@
 # Solipath Node/Typescript example project
 This is a quick showcase of using Solipath for a node project
-To run npm install:
-```bash
-./solipath npm install
-```
+
 To run tests
 ```bash
-./solipath npm test
+./solipath dotnet test
 ```
 
 This project includes vscode as a dependency in solipath.json so you can start it from the command line
