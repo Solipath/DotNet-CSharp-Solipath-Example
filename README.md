@@ -1,5 +1,5 @@
-# Solipath Node/Typescript example project
-This is a quick showcase of using Solipath for a node project
+# Solipath .Net C# example project
+This is a quick showcase of using Solipath for a C# project
 
 To run tests
 ```bash
@@ -14,7 +14,7 @@ Running the following command would start up vscode with path variables set from
 
 I suspect that the same would apply for any other kind of editor as long as you prefix the command that would normally start it with solipath
 
-If you have an existing node project, all you should need to do is copy the solipath, solipath.bat (once it is there), and the solipath.json files over to your project.
+If you have an existing C# and/or .Net project, all you should need to do is copy the solipath, solipath.bat (once it is there), and the solipath.json files over to your project.
 
 
 ## Licensing
