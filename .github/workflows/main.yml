@@ -7,4 +7,4 @@ on:
   workflow_dispatch:
 jobs:
   build:
-    uses: Solipath/DotNet-Solipath-Example/.github/workflows/_build.yml@main
+    uses: Solipath/DotNet-CSharp-Solipath-Example/.github/workflows/_build.yml@main
